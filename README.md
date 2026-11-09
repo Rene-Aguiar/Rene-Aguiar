@@ -1,4 +1,4 @@
-# Olá! Eu sou o René 👋
+# Olá! Eu sou o Rene 👋
 
 🎓 Estudante de Banco de Dados e Sistemas
 💻 Analista de Suporte em sub-adquirente financeira
